@@ -119,6 +119,20 @@ The system analyzes your collection across all spirit types and ensures recommen
 
 For bottle-specific recommendations, the system ensures you get mostly recommendations of the same spirit type (e.g., similar bourbons for a bourbon) but also includes some cross-category recommendations for discovery.
 
+## System Architecture Diagrams
+
+### System Architecture
+
+![System Architecture](https://github.com/user-attachments/assets/62399193-677c-4212-9843-b24622095d8f)
+
+### Component Architecture
+
+![Component Architecture](https://github.com/user-attachments/assets/e43c6f04-d75f-491b-a9a5-bdbfa95c6571)
+
+### Bottle Identification Process
+
+![Bottle Identification Process](https://github.com/user-attachments/assets/df478802-a7f9-4ffa-b02e-55be1c96b84d)
+
 ## API Mode: Integrate with the Website
 
 Bob supports a queryable API interface for embedding recommendation data:
