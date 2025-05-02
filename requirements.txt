@@ -1,4 +1,10 @@
 streamlit
 pandas
 requests
+tqdm
+tensorflow
+faiss-cpu
 scikit-learn
+numpy
+matplotlib
+pillow
